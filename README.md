@@ -7,4 +7,4 @@ Inclui exemplos de formatação, conversão, manipulação de dados e aprimorame
 
 Adicione o arquivo/fonte ao seu projeto e utilize os métodos disponíveis conforme a necessidade.
 
---
+
